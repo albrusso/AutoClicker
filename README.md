@@ -1,2 +1,2 @@
 # AutoClicker
-Simply left mouse AutoClicker in C
+Simply left mouse AutoClicker in C for Mac
